@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitesh Kumar Yadav(niteshku16).
+- 👋 Hi, I’m Nitesh Kumar Yadav (Python Full Stack Developer).
 - 👀 I’m interested in Data Science And Python Full Stack Development.
 - 🌱 I’m skilled in Python,Data Science,Machine Learning,Mysql,Django,Flask,HTML,CSS,Javascript,Bootstrap,MsExcel,MsWord.
 - 💞️ Certification in Python by Coursera,Hackerank,Triplebyte,DataQuest,Tutorialspoint.
